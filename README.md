@@ -1,0 +1,2 @@
+# PaletteBlog
+Localhost test.
