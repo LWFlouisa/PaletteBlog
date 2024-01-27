@@ -1,2 +1,2 @@
 # PaletteBlog
-Localhost test.
+My color palette blog.
